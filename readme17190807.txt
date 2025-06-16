@@ -1,4 +1,4 @@
 nombre: Adela Alvarez Melchor
 matricula: 17190807
 grupo: 901
-carrera: TIC
+correo: adelaalvarezmelchorgmail.com
